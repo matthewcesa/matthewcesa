@@ -1,4 +1,4 @@
-Hello there 👋/n
+Hello there 👋
 I am a Computer Science student trying to improve my skills in coding. 
 I use gitlab mainly as a database of my past and for my future projects.
 
