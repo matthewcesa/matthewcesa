@@ -11,7 +11,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • Android Studio • PhpMyAdmin • MySQLWorkbench • MongoDB • MySQL • Modelio • Looping <br>
 
 ## 🌍 Languages 
-  &nbsp;&nbsp;&nbsp;🇬🇧 English (bilingual) <br>
+  &nbsp;&nbsp;&nbsp;🇬🇧 English (professional) <br>
   &nbsp;&nbsp;&nbsp;🇫🇷 French (native)
 
 ## 📬 Contact me   
