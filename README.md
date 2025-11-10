@@ -10,7 +10,7 @@
  🛠️ **Tools & Technologies** <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • Android Studio • PhpMyAdmin • MySQLWorkbench • MongoDB • MySQL • Modelio <br>
 
-## 🌍 Languages : 
+## 🌍 Languages 
   &nbsp;&nbsp;&nbsp;🇬🇧 English (bilingual) <br>
   &nbsp;&nbsp;&nbsp;🇫🇷 French (native)
 
