@@ -4,25 +4,25 @@
 
 
 
-## Main skills 
+## 🧑‍💻 Main skills 
  💻 **Programming Languages** <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java • C++ • C • Python • JavaScript • HTML/CSS • PHP • MySQL <br>
  🛠️ **Tools & Technologies** <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • PHPMyAdmin • MySQLWorkbench <br>
 
-## Languages : 
+## 🌍 Languages : 
   &nbsp;&nbsp;&nbsp;🇬🇧 English (bilingual) <br>
   &nbsp;&nbsp;&nbsp;🇫🇷 French (native)
 
-## Contact me   
-&nbsp;&nbsp;&nbsp;✉️ matthew-frederick.cesa@efrei.net <br>
+## 📬 Contact me   
+&nbsp;&nbsp;&nbsp; ✉️ matthew-frederick.cesa@efrei.net <br>
 &nbsp;&nbsp;&nbsp;📍 Paris,France
 
 
-## About me
-I love turning ideas into clean , efficient, and scalable code. <br> <br>
+## ⚡️About me
+I love turning ideas into clean , efficient, and scalable code. <br> 
 
-Outside of my studies and my projects, I : <br> 
+💆 Outside of my studies and my projects, I : <br> 
   &nbsp;&nbsp;&nbsp;&nbsp; contribute to open-source projects 🧑‍💻 <br> 
   &nbsp;&nbsp;&nbsp;&nbsp; enjoy sports and physical exercise 🏀⛹️‍♂️ <br> 
   &nbsp;&nbsp;&nbsp;&nbsp; am a video game enthusiast 👾🎮 <br> 
