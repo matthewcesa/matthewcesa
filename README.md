@@ -1,15 +1,14 @@
-# **Hello there 👋** <br>
-my name is Matthew and I am <br>
-🎓 first year CS Engineering student @ [@EFREI Paris](https://www.efrei.fr/) <br>
+# **👋 Hello there , my name is Matthew and I am** <br>
+🎓 First year CS Engineering student @ [@EFREI Paris](https://www.efrei.fr/) <br>
 🧑‍💻 Specialized and overall passionate about **Software Engineering** and **Fullstack Development** <br>
 
 
 
 ## Main skills 
  💻 **Programming Languages** <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java • C++ • C • Python • JavaScript • HTML/CSS • PHP • MySQL <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java • C++ • C • Python • JavaScript • HTML/CSS • PHP • MySQL <br>
  🛠️ **Tools & Technologies** <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • PHPMyAdmin • MySQLWorkbench <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • PHPMyAdmin • MySQLWorkbench <br>
 
 ## Languages : 
   &nbsp;&nbsp;&nbsp;🇬🇧 English (bilingual) <br>
