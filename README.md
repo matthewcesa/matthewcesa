@@ -15,7 +15,7 @@
   &nbsp;&nbsp;&nbsp;🇫🇷 French (native)
 
 ## 📬 Contact me   
-&nbsp;&nbsp;&nbsp; 📍 Paris,France <br>
+&nbsp;&nbsp;&nbsp; 📍 Paris, France <br>
 &nbsp;&nbsp;&nbsp; 📧 matthew-frederick.cesa@efrei.net <br>
 &nbsp;&nbsp;&nbsp; 🟦 www.linkedin.com/in/matthew-cesa 
 
