@@ -6,9 +6,9 @@
 
 ## 🧑‍💻 Main skills 
  💻 **Programming Languages** <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java • C++ • C • Python • JavaScript • HTML/CSS • PHP • MySQL <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java • C++ • C • Python • JavaScript • HTML/CSS • PHP • MySQL • NoSQL <br>
  🛠️ **Tools & Technologies** <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • PHPMyAdmin • MySQLWorkbench <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • PHPMyAdmin • MySQLWorkbench • MongoDB <br>
 
 ## 🌍 Languages : 
   &nbsp;&nbsp;&nbsp;🇬🇧 English (bilingual) <br>
