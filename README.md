@@ -8,7 +8,7 @@
  💻 **Programming Languages** <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java •  Python • C • HTML/CSS • JavaScript • PHP • SQL • C++ • OCaml • NoSQL<br>
  🛠️ **Tools & Technologies** <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • Android Studio • PhpMyAdmin • MySQLWorkbench • MongoDB • MySQL • Modelio <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • Android Studio • PhpMyAdmin • MySQLWorkbench • MongoDB • MySQL • Modelio • Looping <br>
 
 ## 🌍 Languages 
   &nbsp;&nbsp;&nbsp;🇬🇧 English (bilingual) <br>
