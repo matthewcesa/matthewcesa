@@ -22,8 +22,8 @@
 ## ⚡️About me
 I love turning ideas into clean , efficient, and scalable code. <br> 
 
-💆 Outside of my studies and my projects, I : <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp; contribute to open-source projects 🧑‍💻 <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp; enjoy sports and physical exercise 🏀⛹️‍♂️ <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp; am a video game enthusiast 👾🎮 <br> 
+Outside of my studies and my projects, I : <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💻 contribute to open-source projects  <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp; 🏀 enjoy sports and physical exercise 🏋️  <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp; 🎮 am a video game enthusiast 👾 <br> 
   
