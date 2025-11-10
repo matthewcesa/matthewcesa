@@ -1,7 +1,7 @@
-Hello there, my name is Matthew
-🎓 Student in third year of CS Engineering at EFREI Paris
-🧑‍💻 Specialized and overall passionate about Software engineering and fullstack development
-I love turning ideas into clean , efficient, and scalable code.
+Hello there, <br>
+my name is Matthew and I am <br>
+🎓 Student in third year of CS Engineering at EFREI Paris <br>
+🧑‍💻 Specialized and overall passionate about Software engineering and fullstack development <br>
 
 Main skills 
  💻 Programming anguages
@@ -19,8 +19,9 @@ Contact me
 
 
 About me
-Outside of my studes and my projects : 
-  I contribute to open-source projects 🧑‍💻
-  I enjoy sports and physical exercise 🏀⛹️‍♂️
-  I am a video game enthusiast 👾🎮
+I love turning ideas into clean , efficient, and scalable code. <br> 
+Outside of my studies and my projects : <br> 
+  I contribute to open-source projects 🧑‍💻 <br> 
+  I enjoy sports and physical exercise 🏀⛹️‍♂️ <br> 
+  I am a video game enthusiast 👾🎮 <br> 
   
