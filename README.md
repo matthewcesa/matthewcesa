@@ -6,9 +6,9 @@
 
 ## 🧑‍💻 Main skills 
  💻 **Programming Languages** <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java • C++ • C • Python • JavaScript • HTML/CSS • PHP • MySQL • NoSQL <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java • C++ • C • Python • JavaScript • HTML/CSS • PHP • SQL • NoSQL <br>
  🛠️ **Tools & Technologies** <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • PHPMyAdmin • MySQLWorkbench • MongoDB <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • Android Studio• PhpMyAdmin • MySQLWorkbench • MongoDB • MySQL <br>
 
 ## 🌍 Languages : 
   &nbsp;&nbsp;&nbsp;🇬🇧 English (bilingual) <br>
@@ -23,7 +23,6 @@
 
 ## ⚡️About me
 I love turning ideas into clean , efficient, and scalable code. <br> 
-
 Outside of my studies and my projects, I : <br> 
   &nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💻 contribute to open-source projects  <br> 
   &nbsp;&nbsp;&nbsp;&nbsp; 🏀 enjoy sports and physical exercise 🏋️  <br> 
