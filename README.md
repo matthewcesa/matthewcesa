@@ -1,5 +1,5 @@
 # **👋 Hello there , my name is Matthew and I am** <br>
-🎓 a third year CS Engineering student @ [@EFREI Paris](https://www.efrei.fr/) <br>
+🎓 a fourth year CS Engineering student @ [@EFREI Paris](https://www.efrei.fr/) <br>
 💼 specialized and overall passionate about **Software Engineering** and **Fullstack Development** <br>
 
 
