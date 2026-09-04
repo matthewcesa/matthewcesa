@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Main skills 
  💻 **Programming Languages** <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java •  Python • C • HTML/CSS • JavaScript • PHP • SQL • C++ • Kotlin <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java •  Python • JavaScript • C • HTML/CSS • PHP • SQL • Kotlin <br>
  🛠️ **Tools & Technologies** <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • Android Studio • PhpMyAdmin • MySQLWorkbench • MongoDB • MySQL • Modelio • Looping <br>
 
