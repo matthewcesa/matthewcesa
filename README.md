@@ -1,4 +1,4 @@
-# ** Hello there , my name is Matthew ** <br>
+# Hello there , my name is Matthew  <br>
 
 ## Who am I ? 
  - a fourth year CS Engineering student @ [@EFREI Paris](https://www.efrei.fr/) <br>
@@ -16,7 +16,7 @@
   &nbsp;&nbsp;&nbsp; English (professional) <br>
   &nbsp;&nbsp;&nbsp; French (native)
 
-## 📬 Contact me   
+## Contact me   
 &nbsp;&nbsp;&nbsp; 📍 Paris, France <br>
 &nbsp;&nbsp;&nbsp; 📧 matthew-frederick.cesa@efrei.net <br>
 &nbsp;&nbsp;&nbsp; 🟦 www.linkedin.com/in/matthew-cesa 
