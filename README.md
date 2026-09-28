@@ -24,9 +24,10 @@ Passionated about Software Engineering, Full-Stack Development and Agentic.
 ## About me
 I love turning ideas into clean , efficient, and scalable code. <br> 
 Outside of my studies and my projects, I : <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;  contribute to open-source projects  <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;  enjoy sports and physical exercise 🏋️  <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;  am a video game enthusiast 👾 <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;  - Conception of end-to-end applications <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;  - contribute to open-source projects  <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;  - enjoy sports and physical exercise 🏋️  <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;  - am a video game enthusiast 👾 <br> 
   
 
 ## Main skills 
