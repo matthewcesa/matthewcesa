@@ -7,10 +7,15 @@
 
 
 ## Main skills 
- **Programming Languages** <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java •  Python • JavaScript • C • HTML/CSS • PHP • SQL • Kotlin <br>
- **Tools & Technologies** <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker • GitHub • Android Studio • PhpMyAdmin • MySQLWorkbench • MongoDB • MySQL • Modelio • Looping <br>
+
+| Catgories | Technologies & tools |
+| :--- | :--- |
+| **Back-end** | `Java` `Python` `Kotlin` `C` `SQL` `PHP` |
+| **Front-end** | `TypeScript` `JavaScript` `HTML5` `CSS3` `Vue.js` `React` |
+| **Frameworks & API** | `Spring Boot` `Node.js` `Express.js` |
+| **Bases de données** | `PostgreSQL` `MySQL` `Oracle` `PL/SQL` <br><sub>Modélisation (MCD / MLD) • Looping • Modelio • PhpMyAdmin • MySQL Workbench</sub> |
+| **DevOps & CI/CD** | `Docker` `Git` `GitHub Actions` `Postman` |
+
 
 ## Languages 
   &nbsp;&nbsp;&nbsp; English (professional) <br>
@@ -20,7 +25,6 @@
 &nbsp;&nbsp;&nbsp; 📍 Paris, France <br>
 &nbsp;&nbsp;&nbsp; 📧 matthew-frederick.cesa@efrei.net <br>
 &nbsp;&nbsp;&nbsp; 🟦 www.linkedin.com/in/matthew-cesa 
-
 
 
 ## About me
