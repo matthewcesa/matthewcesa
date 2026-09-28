@@ -22,24 +22,23 @@ Passionated about Software Engineering, Full-Stack Development and Agentic.
 
 
 ## About me
-I love turning ideas into clean , efficient, and scalable code. <br> 
-Outside of my studies and my projects, I : <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;  - Conception of end-to-end applications <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;  - contribute to open-source projects  <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;  - enjoy sports and physical exercise 🏋️  <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;  - am a video game enthusiast 👾 <br> 
+I love turning ideas into clean, efficient, and scalable code, focusing on end-to-end application design from concept to deployment. 
+
+When I'm not studying or building projects, you'll find me:
+* Contributing to open-source software
+* Working out and keeping active 🏋️
+* Playing video games 👾
   
 
 ## Main skills 
 
-| Catgories | Technologies & tools |
+| Categories | Technologies & Tools |
 | :--- | :--- |
 | **Back-end** | `Java` `Python` `Kotlin` `C` `SQL` `PHP` |
 | **Front-end** | `TypeScript` `JavaScript` `HTML5` `CSS3` `Vue.js` `React` |
 | **Frameworks & API** | `Spring Boot` `Node.js` `Express.js` |
-| **Bases de données** | `PostgreSQL` `MySQL` `Oracle` `PL/SQL` <br><sub>Modélisation (MCD / MLD) • Looping • Modelio • PhpMyAdmin • MySQL Workbench</sub> |
+| **Databases** | `PostgreSQL` `MySQL` `Oracle` `PL/SQL` <br><sub>Modélisation (MCD / MLD) • Looping • Modelio • PhpMyAdmin • MySQL Workbench</sub> |
 | **DevOps & CI/CD** | `Docker` `Git` `GitHub Actions` `Postman` |
-
 
 ## Languages 
   &nbsp;&nbsp;&nbsp; English (professional) <br>
